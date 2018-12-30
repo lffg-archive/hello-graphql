@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "João Carlos",
+    "lastName": "Alberto Peixoto",
+    "username": "jcarlos",
+    "age": 46,
+    "gender": "M",
+    "email": "carlos@dummy.com",
+    "isActive": true,
+    "notificationCount": 0,
+    "availableToHire": true
+  },
+  {
+    "id": 2,
+    "name": "Pedro",
+    "lastName": "Fernandes Costa",
+    "username": "pedro",
+    "age": 17,
+    "gender": "M",
+    "email": "pedro@dummy.com",
+    "isActive": true,
+    "notificationCount": 6,
+    "availableToHire": false
+  },
+  {
+    "id": 1,
+    "name": "Julia",
+    "lastName": "Arnaldo Pena",
+    "username": "juliaap",
+    "age": 20,
+    "gender": "F",
+    "email": "ju@dummy.com",
+    "isActive": false,
+    "notificationCount": 0,
+    "availableToHire": false
+  },
+  {
+    "id": 1,
+    "name": "Marcos",
+    "lastName": "Silva",
+    "username": "marcos",
+    "age": 15,
+    "gender": "M",
+    "email": "carlos@dummy.com",
+    "isActive": true,
+    "notificationCount": 46,
+    "availableToHire": false
+  },
+  {
+    "id": 1,
+    "name": "Maria Antônia",
+    "lastName": "Mello Montenegro",
+    "username": "mantonia",
+    "age": 76,
+    "gender": "F",
+    "email": "carlos@dummy.com",
+    "isActive": true,
+    "notificationCount": 100,
+    "availableToHire": true
+  }
+]
