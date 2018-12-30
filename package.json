@@ -1,6 +1,11 @@
 {
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "apollo-server-express": "^2.3.1",
+    "express": "^4.16.4",
+    "graphql": "^14.0.2",
+    "graphql-import": "^0.7.1"
+  },
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch",
