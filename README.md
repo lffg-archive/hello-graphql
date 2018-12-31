@@ -16,7 +16,8 @@ Para não precisar de usar uma base de dados, como MySQL, Postgree ou MongoDB, e
 ## Rodar
 
 1. Clone o repositório;
-2. Use o comando `yarn start` para inicializar o processo em modo de desenvolvimento.
+1. Instale as dependências usando `yarn install`;
+1. Use o comando `yarn start` para inicializar o processo em modo de desenvolvimento.
 
 > **Importante:**  
 >
