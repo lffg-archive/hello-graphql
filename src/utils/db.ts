@@ -8,7 +8,7 @@ const readFile = promisify(fs.readFile)
 const DB_FILE = join(__dirname, '..', '..', 'db', 'users.json')
 
 export interface User {
-  id: number
+  id: string
   name: string
   lastName: string
   username: string
@@ -25,7 +25,7 @@ export async function getAll() {
   return JSON.parse(data) as User[]
 }
 
-export async function getSpecific(id: number) {
+export async function getSpecific(id: string) {
   const users = await getAll()
   return users.find(({ id: uid }: User) => uid === id)
 }

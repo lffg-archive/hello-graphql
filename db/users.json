@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "João Carlos",
     "lastName": "Alberto Peixoto",
     "username": "jcarlos",
@@ -12,7 +12,7 @@
     "availableToHire": true
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "Pedro",
     "lastName": "Fernandes Costa",
     "username": "pedro",
@@ -24,7 +24,7 @@
     "availableToHire": false
   },
   {
-    "id": 1,
+    "id": "1",
     "name": "Julia",
     "lastName": "Arnaldo Pena",
     "username": "juliaap",
@@ -36,7 +36,7 @@
     "availableToHire": false
   },
   {
-    "id": 1,
+    "id": "1",
     "name": "Marcos",
     "lastName": "Silva",
     "username": "marcos",
@@ -48,7 +48,7 @@
     "availableToHire": false
   },
   {
-    "id": 1,
+    "id": "1",
     "name": "Maria Antônia",
     "lastName": "Mello Montenegro",
     "username": "mantonia",

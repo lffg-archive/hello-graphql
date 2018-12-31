@@ -2,10 +2,12 @@ import { getAll, getSpecific } from '../utils/db'
 
 export default {
   Query: {
-    hello: (_: any, { name }: any) => `Hello, ${name || 'World'}!`,
+    hello: (_: any, { name }: GQL.IHelloOnQueryArguments) => {
+      return `Hello, ${name || 'World'}!`
+    },
 
-    user: async (_: any, { id }: any) => {
-      return getSpecific(parseInt(id, 10))
+    user: async (_: any, { id }: GQL.IUserOnQueryArguments) => {
+      return getSpecific(id)
     },
 
     users: async () => {
