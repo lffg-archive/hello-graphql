@@ -2,6 +2,13 @@
 
 Escritas em português.
 
+# Stack:
+
+- Node.JS
+- TypeScript
+- GraphQL
+  - ApolloServer 2.0
+
 ## "Base de Dados"
 
 Para não precisar de usar uma base de dados, como MySQL, Postgree ou MongoDB, eu criei um diretório contendo arquivos JSON, que serão usados como base de dados.
