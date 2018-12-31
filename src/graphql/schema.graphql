@@ -1,3 +1,18 @@
 type Query {
   hello(name: String): String!
+  users: [User]!
+  user(id: ID!): User
+}
+
+type User {
+  id: ID!
+  name: String!
+  lastName: String!
+  username: String!
+  age: Int
+  gender: String
+  email: String!
+  isActive: Boolean!
+  notificationCount: Int!
+  availableToHire: Boolean!
 }
