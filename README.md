@@ -2,7 +2,7 @@
 
 Escritas em português.
 
-# Stack:
+## Stack:
 
 - Node.JS
 - TypeScript
@@ -12,10 +12,6 @@ Escritas em português.
 ## "Base de Dados"
 
 Para não precisar de usar uma base de dados, como MySQL, Postgree ou MongoDB, eu criei um diretório contendo arquivos JSON, que serão usados como base de dados.
-
-## TypeScript
-
-Este projeto está usando TypeScript.
 
 ## Rodar
 
