@@ -12,5 +12,8 @@ Este projeto está usando TypeScript.
 
 ## Rodar
 
-Para rodar, clone o repositório e use o comando `yarn start` para rodar.  
-Se você não tem o [Yarn instalado, instale-o clicando neste link](https://yarnpkg.com/).
+1. Clone o repositório;
+2. Use o comando `yarn start` para inicializar o processo em modo de desenvolvimento.
+
+> **Importante:**  
+> Se você não tem o [Yarn instalado, instale-o clicando neste link](https://yarnpkg.com/).
